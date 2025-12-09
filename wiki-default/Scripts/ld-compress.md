@@ -16,7 +16,7 @@ This script will write a .ldf compressed version of the .lds file to the directo
 
 ld-compress also supports GPU acceleration via [FlaLDF](https://github.com/TokugawaHeavyIndustries/FlaLDF).  This requires an OpenCL compatible GPU and installation of FlaLDF.
 
-[Download FlaLDF](https://github.com/TokugawaHeavyIndustries/FlaLDF/releases/latest).  Linux users, install using the .deb.  If you're on Mac, add FlaLDF to your PATH.
+[Download FlaLDF](https://github.com/TokugawaHeavyIndustries/FlaLDF/releases).  Linux users, install using the .deb.  If you're on Mac, add FlaLDF to your PATH.
 
 To compress an .lds file with GPU acceleration, use:
 
