@@ -4,7 +4,7 @@ Important: If you are looking for information on how to perform disc stacking us
 
 [Working with multiple discs](../How-to-guides/Working-with-multiple-discs.md)
 
-The following is a guide on how to use the [vapoursynth-median](https://github.com/dubhater/vapoursynth-median) plugin for [Vapoursynth](http://www.vapoursynth.com/) to reduce noise and dropouts and improve detail by using multiple copies of a disc. It requires a working vapoursynth installation, the plugin, and [vsedit](https://bitbucket.org/mystery_keeper/vapoursynth-editor).
+The following is a guide on how to use the [vapoursynth-median](https://github.com/dubhater/vapoursynth-median) plugin for Vapoursynth to reduce noise and dropouts and improve detail by using multiple copies of a disc. It requires a working vapoursynth installation, the plugin, and [vsedit](https://bitbucket.org/mystery_keeper/vapoursynth-editor).
 
 Initial NTSC results with a 3 sources and 5 sources show substantial improvement in SNR, a great reduction in dropouts, and on the 5-source median notably stronger chroma.
 
